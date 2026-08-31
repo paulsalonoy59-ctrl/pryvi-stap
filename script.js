@@ -5,7 +5,7 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Paul
 TITLE:IT Student & Developer
-EMAIL:paulsalonoy59@gmail.com
+EMAIL:jakepaul999q@gmail.com
 URL:${window.location.href}
 NOTE:PRYVI STAP Digital Identity
 END:VCARD
